@@ -12,6 +12,8 @@
 
 * [下載 git](https://git-scm.com/downloads)
 * [github.com](https://github.com/)
+* [Using git source control in vs code](https://code.visualstudio.com/docs/sourcecontrol/overview)
+* [Github and Visual Studio Code](https://vscode.github.com/)
 * [GitHub快速入門](https://docs.github.com/en/get-started/quickstart)
 * [GitHub Desktop](https://desktop.github.com/)
 * [GitHub Pages](https://pages.github.com/)
